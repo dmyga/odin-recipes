@@ -1,0 +1,22 @@
+.recipe-select {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1 rem;
+
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container {
+  border: 1px solid black;
+  padding: 1 px;
+  text-align: center;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+.image {
+  height: 250px;
+  width: 250px;
+}
